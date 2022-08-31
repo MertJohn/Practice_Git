@@ -5,5 +5,4 @@ public class ChipPayments {
     //processing payment
     //payment successful
     //done
-    //merchant received money
 }
